@@ -1,0 +1,172 @@
+{
+  "basics": {
+    "name": "Abhisek Sau",
+    "label": "Program Manager",
+    "email": "abhisek.sau2007@gmail.com",
+    "phone": "+91-9046062290",
+    "location": "Kolkata, West Bengal, IN",
+    "summary": "Program Manager and Pega Certified Lead System Architect (CLSA) with 14+ years of experience in BPM/CRM across EY, Accenture, and Cognizant. Proven in end-to-end solutioning, architecture, delivery governance, and modernization of enterprise Pega platforms—covering scope definition, design, build, testing, UAT, and production rollout. Known for building internal assets, leading RFPs/POCs, and improving quality, performance, and time-to-value.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/abhisek-sau-6086b168"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "EY",
+      "position": "Program Manager / Pega CLSA",
+      "startDate": "2019-01",
+      "endDate": "",
+      "highlights": [
+        "Defined scope, timelines, dependencies, and risks; ensured delivery to quality and budget.",
+        "Led end-to-end solutioning and architecture for Pega programs; acted as LSA across engagements.",
+        "Modernized and upgraded Pega platforms; improved performance against KPIs.",
+        "Contributed to RFPs and POCs; estimation and governance for multiple projects.",
+        "Built and onboarded teams; drove standards for quality assurance and testing."
+      ]
+    },
+    {
+      "name": "Accenture",
+      "position": "Application Development Team Lead / Pega LSA",
+      "startDate": "2014-01",
+      "endDate": "2019-01",
+      "highlights": [
+        "Architected and led development for Pega solutions across CMT and FS domains.",
+        "Removed technical blockers; drove on-time delivery and code quality reviews.",
+        "Owned RFPs/POCs, effort estimation, and stakeholder collaboration.",
+        "Established testing strategy and metrics; reduced defects via process improvements."
+      ]
+    },
+    {
+      "name": "Cognizant Technology Solutions",
+      "position": "Programmer Analyst",
+      "startDate": "2011-01",
+      "endDate": "2014-01",
+      "highlights": [
+        "Delivered features, testing, and defect management; provided post-implementation support.",
+        "Developed R&D assets: Code Review Tool, Database Schema Comparison Tool, Interface Logging Tool.",
+        "Tools reduced human error and improved productivity; received client appreciation."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Pega Platform Modernization",
+      "roles": [
+        "Program Manager",
+        "CLSA"
+      ],
+      "description": "Application modernization and platform upgrades to improve performance KPIs and maintainability across multiple programs.",
+      "url": ""
+    },
+    {
+      "name": "Internal Pega Assets & Accelerators",
+      "roles": [
+        "Solution Architect"
+      ],
+      "description": "Reusable components and frameworks supporting quality, productivity, and faster delivery (RFPs/POCs, estimation).",
+      "url": ""
+    },
+    {
+      "name": "Code Review / DB Schema / Interface Logging Tools",
+      "roles": [
+        "Developer"
+      ],
+      "description": "In-house R&D tools to automate reviews, compare schemas, and capture interface diagnostics, reducing manual effort and errors.",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Pega CLSA"
+    },
+    {
+      "name": "Pega PRPC"
+    },
+    {
+      "name": "Pega Customer Service"
+    },
+    {
+      "name": "Pega Marketing"
+    },
+    {
+      "name": "Pega CLM & KYC"
+    },
+    {
+      "name": "BPM / CRM"
+    },
+    {
+      "name": "Solution Architecture"
+    },
+    {
+      "name": "Program / Project Management"
+    },
+    {
+      "name": "Quality Assurance"
+    },
+    {
+      "name": "SOA"
+    },
+    {
+      "name": "Data Migration"
+    },
+    {
+      "name": "Upgrades & Modernization"
+    },
+    {
+      "name": "Oracle"
+    },
+    {
+      "name": "SQL Server"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Core Java"
+    },
+    {
+      "name": "Scripting"
+    },
+    {
+      "name": "Generative AI"
+    },
+    {
+      "name": "GitHub Copilot"
+    },
+    {
+      "name": "AWS (Basics)"
+    }
+  ],
+  "education": [
+    {
+      "institution": "College of Engineering and Management, Kolaghat",
+      "studyType": "B.Tech/B.E.",
+      "area": "Electronics & Telecommunication",
+      "endDate": "2011",
+      "courses": []
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Pega Certified Lead System Architect (CLSA)"
+    },
+    {
+      "name": "Pega Certified Decisioning Consultant (CPDC)"
+    },
+    {
+      "name": "Pega Certified CPM Architect (CCA)"
+    },
+    {
+      "name": "Pega Certified UI Specialist"
+    },
+    {
+      "name": "Pega Certified Marketing Consultant"
+    },
+    {
+      "name": "Pega Certified Data Scientist (PCDS)"
+    }
+  ]
+}
